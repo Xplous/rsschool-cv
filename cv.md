@@ -29,7 +29,7 @@ console.log(ex + rstop)
 ## Education
 Unfinished higher education
 ### Curses
-1.FRONT-END: RSschool.
+1. FRONT-END: RSschool.
 2. React(on Udemy) + (Channel Vladilen Minin)
 3. Js-course (Channel Vladilen Minin) 
 4. Typescript (Channel Vladilen Minin)
