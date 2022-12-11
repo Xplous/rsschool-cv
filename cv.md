@@ -28,7 +28,7 @@ console.log(ex + rstop)
 3. University project - News App (on React Native)(in progress)
 ## Education
 Unfinished higher education
-# Curses
+### Curses
 FRONT-END: RSschool.
 React(on Udemy) + (Channel Vladilen Minin)
 Js-course (Channel Vladilen Minin) 
