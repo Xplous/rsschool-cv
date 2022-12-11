@@ -30,9 +30,9 @@ console.log(ex + rstop)
 Unfinished higher education
 ### Curses
 FRONT-END: RSschool.
-React(on Udemy) + (Channel Vladilen Minin)
-Js-course (Channel Vladilen Minin) 
-Typescript (Channel Vladilen Minin)
+1. React(on Udemy) + (Channel Vladilen Minin)
+2. Js-course (Channel Vladilen Minin) 
+3. Typescript (Channel Vladilen Minin)
 
 ## English level
 A2
