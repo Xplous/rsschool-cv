@@ -22,7 +22,7 @@ for (let i = 0; i < arr.length(); i++){
 console.log(ex + rstop)
 ```
 ## Experience
-# Junior Dev
+### Junior Dev
 1. Online сlothing Store - Merrim (on MERN stack)(finished)
 2. School project - Slider with admin panel (on MERN stack)(finished)
 3. University project - News App (on React Native)(in progress)
